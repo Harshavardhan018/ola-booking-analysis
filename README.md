@@ -148,9 +148,7 @@ The app also accepts `OLA_SQL_*` environment variables for SQL Server settings. 
 
 The business queries and import script use MySQL syntax. Use the SQL Server table definition for the dashboard's SQL Server connection.
 
-## Dataset
 
-The project uses the Bengaluru OLA booking dataset from [Satyam638/OLA_DataAnalyst_Project](https://github.com/Satyam638/OLA_DataAnalyst_Project). It is included locally for reproducible dashboard runs and is used for learning and portfolio analysis.
 
 ## Validation
 
